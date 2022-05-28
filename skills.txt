@@ -1,0 +1,8 @@
+one - Terminal,
+two - GIT,
+three - Postman,
+four - SoapUI,
+five - Sniffers,
+six - jmeter,
+seven - SQL,
+eight - Android Studio

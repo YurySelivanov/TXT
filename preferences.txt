@@ -1,0 +1,5 @@
+Favorite movie is Harry Potter,
+Favorite series is Friends,
+Favorite food is Potatoes,
+Favorite seaso is Summer,
+Country I wish to visit is the USA.
