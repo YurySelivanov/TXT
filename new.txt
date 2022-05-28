@@ -1,0 +1,6 @@
+Full name: 	first name is Yury,
+		surname is Selivanov,
+		patronymic is Aleksandrovich.
+Age is 35.
+Number of pets - 0.
+Salary - 1000.
